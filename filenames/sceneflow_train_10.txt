@@ -1,0 +1,5 @@
+frames_finalpass/TRAIN/15mm_focallength/scene_backwards/slow/left/0224.png frames_finalpass/TRAIN/15mm_focallength/scene_backwards/slow/right/0224.png disparity/TRAIN/15mm_focallength/scene_backwards/slow/left/0224.pfm
+frames_finalpass/TRAIN/15mm_focallength/scene_backwards/slow/left/0132.png frames_finalpass/TRAIN/15mm_focallength/scene_backwards/slow/right/0132.png disparity/TRAIN/15mm_focallength/scene_backwards/slow/left/0132.pfm
+frames_finalpass/TRAIN/15mm_focallength/scene_backwards/slow/left/0020.png frames_finalpass/TRAIN/15mm_focallength/scene_backwards/slow/right/0020.png disparity/TRAIN/15mm_focallength/scene_backwards/slow/left/0020.pfm
+frames_finalpass/TRAIN/15mm_focallength/scene_backwards/slow/left/0408.png frames_finalpass/TRAIN/15mm_focallength/scene_backwards/slow/right/0408.png disparity/TRAIN/15mm_focallength/scene_backwards/slow/left/0408.pfm
+frames_finalpass/TRAIN/15mm_focallength/scene_backwards/slow/left/0411.png frames_finalpass/TRAIN/15mm_focallength/scene_backwards/slow/right/0411.png disparity/TRAIN/15mm_focallength/scene_backwards/slow/left/0411.pfm
